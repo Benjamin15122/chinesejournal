@@ -254,7 +254,7 @@
 \let\class@font@family@xits\@empty
 \newcommand\class@set@xits@names{%
   \ifx\class@font@family@xits\@empty
-    \IfFontExistsTF{XITSMath-Regular.otf}{%
+    \IfFontExistsTF{XITS-Regular.otf}{%
       \gdef\class@font@family@xits{XITS}%
       \gdef\class@font@style@xits@rm{Regular}%
       \gdef\class@font@style@xits@bf{Bold}%
